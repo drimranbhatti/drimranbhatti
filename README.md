@@ -23,7 +23,7 @@ PhD (Finance) · MSc Financial Engineering · FCMA · FCPA · CIMA (UK) · CSAA 
 | [**dea-panel-econometrics**](https://github.com/drimranbhatti/dea-panel-econometrics) | DEA efficiency (CCR/BCC), Malmquist productivity, FE/RE panels with robust Hausman, from my PhD methodology |
 | [**crypto-deep-learning-trading**](https://github.com/drimranbhatti/crypto-deep-learning-trading) | MLP / LSTM / CNN-on-Gramian-Angular-Fields for Bitcoin, purged walk-forward validation, break-even cost analysis |
 | [**ml-finance-models**](https://github.com/drimranbhatti/ml-finance-models) | PCA factor models, LASSO index tracking, tree ensembles, and an honest look at overfitting |
-| [**data-science-portfolio**](https://github.com/drimranbhatti/data-science-portfolio) | Business analytics: churn with profit-optimal targeting, SaaS MRR/cohorts/LTV, NPS, NLP, SQL window functions |
+| [**data-science-portfolio**](https://github.com/drimranbhatti/data-science-portfolio) | 12 business-analytics projects: **audit analytics (journal-entry testing, Benford)**, FX risk/VaR, churn with profit-optimal targeting, SaaS MRR/cohorts/LTV, valuation, demand forecasting, NLP, SQL |
 
 Every repository is **tested, executed end-to-end and documented**, with results reported honestly, including what didn't work.
 

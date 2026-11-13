@@ -16,6 +16,7 @@ PhD (Finance) · MSc Financial Engineering · FCMA · FCPA · CIMA (UK) · CSAA 
 
 | Repository | What it shows |
 |---|---|
+| [**global-firm-financials**](https://github.com/drimranbhatti/global-firm-financials) | **53,000 companies, 123 countries (Compustat Global + North America, 2000-2020):** working capital and cash conversion cycles, leverage and cash, trade credit (my PhD design at full scale), zombie firms and Altman distress, Tobin's Q and investment |
 | [**derivatives-pricing-toolkit**](https://github.com/drimranbhatti/derivatives-pricing-toolkit) | Black-Scholes & Greeks, binomial trees, Monte Carlo (Longstaff-Schwartz), Heston, Merton, Bates; calibration to live SPY options (< 1 vol-pt error); Vasicek/CIR; delta-hedging simulator and 20 years of hedged SPY calls (variance risk premium) |
 | [**market-risk-models**](https://github.com/drimranbhatti/market-risk-models) | VaR/ES with Kupiec, Christoffersen & Basel backtests; Gaussian HMM built from scratch; Bayesian networks |
 | [**portfolio-optimization-lab**](https://github.com/drimranbhatti/portfolio-optimization-lab) | Markowitz, Black-Litterman, Kelly, risk parity, HRP, random-matrix denoising; walk-forward backtest net of costs; autoencoder vs PCA deep portfolios |
